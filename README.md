@@ -1,5 +1,4 @@
 # TPLAPETA's Hub
-[TPLAPETA](https://github.com/TPLAPETA)  
 [TPLAPETA CommoWeather (TPCW)](https://github.com/TPCW)  
 [TPLAPETA DragonRiverWorld (TPCWDRW)](https://github.com/TPCWDRW)  
 [DragonRiverWorld Intelligent Terminal Management Service (DRW-ITMS)](https://github.com/DRW-ITMS)  
